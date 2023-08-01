@@ -4,7 +4,7 @@ using namespace std;
 
 int TwoNumAdd(int a, int b){
   cout << "run add fun" << endl;
-  return a + b;
+  return (a + b);
 }
 
 int main(int argc, char *argv[]) {
