@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int add(int a, int b){
+int TwoNumAdd(int a, int b){
   cout << "run add fun" << endl;
   return a + b;
 }
